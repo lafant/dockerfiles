@@ -1,5 +1,5 @@
 FROM alpine:3.8
-MAINTAINER FAN VINGA<fanalcest@gmail.com>
+MAINTAINER lafant
 
 ENV NODE_ID=1                     \
       
